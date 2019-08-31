@@ -1,9 +1,9 @@
 Package: com.matdev.neofetch-ios
-Name: neofetch-ios
-Depends: bash (>= 3.2), coreutils (>= 8.12-12p), coreutils-bin (>= 8.12-9), grep (>= 2.5.4-3), darwintools (>=1-5), system-cmds (>=433.8-14), gawk (>= 3.1.6-2p)
-Version: 0.1.4
+Name: NeoFetch-iOS
+Depends: bash (>= 3.2), coreutils (>= 8.12-12p), coreutils-bin (>= 8.12-9), grep (>= 2.5.4-3), darwintools (>=1-5), system-cmds (>=433.8-14), gawk (>= 3.1.6-2p), firmware (>= 10.0)
+Version: 1.0.0
 Architecture: iphoneos-arm
-Description: neofetch for iOS. To use, open your preffered terminal and simply type "neofetch". Uses neofetch 6.0.0 and is tested to work on iOS 10-12.4
-Section: Utilities
+Description: NeoFetch for iOS. Display system information in command-line!
+Section: Tweaks
 Maintainer: MatDev
 Author: MatDev
